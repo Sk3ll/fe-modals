@@ -1,10 +1,5 @@
 # Front-end - Test Task
 
-## Requirements
-
--
-- Test task should be stored on GitHub or BitBucket and a link or invitation should be sent to [denis@unionf`intech.com](mailto:denis@unionfintech.com).
-
 ## Application architecture requirements
 
 Engine version:
