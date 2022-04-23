@@ -1,9 +1,12 @@
 export enum Header {
   Title = 'Create Personal Data',
+  Status = 'In progress',
+}
+
+export enum HeaderStepper {
   PersonalData = 'Personal Data',
   Education = 'Education',
   Other = 'Other',
-  Status = 'In progress',
 }
 
 export enum Buttons {
